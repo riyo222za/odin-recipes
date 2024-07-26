@@ -20,6 +20,10 @@ h2, h3 {
 .ingredients,
 .steps {
     text-align: left;
+    display: inline-block;
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
 }
 
 pr .description {
