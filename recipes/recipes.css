@@ -24,6 +24,7 @@ h2, h3 {
     height: auto;
     width: 500px;
     margin: 0 auto;
+    vertical-align: top;
 }
 
 pr .description {
