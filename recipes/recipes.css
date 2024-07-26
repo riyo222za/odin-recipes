@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: groove;
+    background-color: hotpink;
+}
+
+.container {
+    text-align: center;
+}
+
+.main-header {
+    text-decoration: underline;
+}
+
+h2, h3 {
+
+    text-decoration: underline;
+}
+
+.ingredients,
+.steps {
+    text-align: left;
+}
+
+pr .description {
+
+    font-weight: bolder;
+}
