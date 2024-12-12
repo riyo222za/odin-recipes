@@ -1,5 +1,7 @@
 # odin-recipes
 
+Please dont jusdge me on this, it was my first ever try at a webpage.
+
 This is my second attempt at the recipes project
 
 I am just starting here to get better at commit messages
